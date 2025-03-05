@@ -31,11 +31,11 @@ https://github.com/user-attachments/assets/38e94051-a2e8-4038-a0b1-e60b1542932c
 
 アニメーションと壁の動きを同時に生成(左からアニメーション、壁の動き、変化速度)
 
-<video src="img/td1013c.mov" controls="true"></video>
+<video src="img/td1013c.mov" controls="true">プレゼン用.mp4</video>
 
 プレゼンテーションでのデモンストレーション
 
-<video src="img/プレゼン用.mp4" controls="true"></video>
+<video src="img/プレゼン用.mp4" controls="true">プレゼン用.mp4</video>
 
 (うまく表示されない場合は`/img`内を直接参照してください)
 
@@ -46,6 +46,8 @@ https://github.com/user-attachments/assets/38e94051-a2e8-4038-a0b1-e60b1542932c
 > [P.I.C.S.協賛「壁フェス Kinetic Wall Festival 2022」が工学院大学 新宿アトリウムにて開催。](https://www.pics.tokyo/news/2022/kinetic-wall-festival2022/)
 
 > [壁フェス Kinetic Wall Festival 2022 最終審査会 開催のお知らせ](https://www.kogakuin.ac.jp/atrium/news/2022120101.html)
+
+> [デジタルで学生たちが競い合う！ - 壁フェス Kinetic Wall Festival 2022最終結果発表](https://news.mynavi.jp/kikaku/20221226-2542360/)
 
 実際の発表会の様子(発表者はプロジェクトメンバーの友人です)
 
